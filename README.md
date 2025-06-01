@@ -19,7 +19,8 @@
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## 🏃‍♀️ Activities
 <div align="left"> 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yudai-matsuura&show_icons=true&locale=en&layout=compact" alt="tharitsinsunthorn" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yudai-matsuura&show_icons=true&locale=en&layout=compact&cache_seconds=60" />
+</p>
 </div>
 
 
