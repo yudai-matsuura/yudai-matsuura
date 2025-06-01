@@ -19,7 +19,7 @@
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## 🏃‍♀️ Activities
 <div align="left"> 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yudai-matsuura&show_icons=true&locale=en&layout=compact&cache_seconds=60" />
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yudai-matsuura&show_icons=true&locale=en&layout=compact&cache_seconds=86400" />
 </p>
 </div>
 
