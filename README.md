@@ -2,7 +2,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
 - 🔭 I'm currently Master student at the [Space Robotics Laboratory](https://astro.mech.tohoku.ac.jp/) of Tohoku University.
-- 🌱 I’m currently learning Point Cloud Processing!
+- 🌱 I’m currently learning Point Cloud Processing and iamge processing!
 - 📫 How to reach me: **matsuura.yudai.q5@dc.tohoku.ac.jp**
 <br>
 
@@ -11,7 +11,7 @@
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=cpp,c,linux,vscode,py,pytorch,matlab,ros,arduino," />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=cpp,c,linux,opencv,py,pytorch,matlab,ros,arduino," />
 <br>
 
 
