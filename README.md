@@ -2,11 +2,9 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
 - 🔭 I'm currently Master student at the [Space Robotics Laboratory](https://astro.mech.tohoku.ac.jp/) of Tohoku University.
-- 🦿 **Legged & Hybrid Robots** (wheeled–gripper / legged systems)
-- 🗺️ **Traversability Analysis & Terrain Assessment**
-- 📡 **SLAM and Environment Perception**
+- 🦿 **Legged & Hybrid Robots**
+- 🗺️ **Traversability Analysis & Terrain Assessment (SLAM and Environment Perception)**
 - 📊 **Signal Processing for Geometric Features**
-- 🧩 **Fractal Properties of Natural Terrains**
 - 📫 How to reach me: **matsuura.yudai.q5@dc.tohoku.ac.jp**
 <br>
 
