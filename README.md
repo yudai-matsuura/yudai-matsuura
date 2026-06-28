@@ -28,5 +28,7 @@
 
 </div>
 
+## 📕 Publications
+["LIMBERO: A Limbed Climbing Exploration Robot Toward Traveling on Rocky Cliffs"](https://arxiv.org/abs/2603.16531), IEEE ICRA 2026 (5th author)
 
 
